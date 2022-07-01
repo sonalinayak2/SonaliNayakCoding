@@ -1,4 +1,4 @@
 This is version 1 of my file
 I want this to go into commit 2
-Skipping staging area git commit -a -m "message"
+Skipping staging area git commit -a -m "New message"
 
